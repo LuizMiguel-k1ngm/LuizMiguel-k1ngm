@@ -1,7 +1,7 @@
 ## Hi there, I'm Luiz Miguel 👋
 
-- 🔭 Hoje sou estudante de Ciências da Computação
-- 🌱 Estudando React
+- 🔭 Computer science student
+- 🌱 Learning React
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
