@@ -1,7 +1,13 @@
 ## Hi there, I'm Luiz Miguel 👋
+A Computer Science student and Full Stack Developer passionate about building robust and efficient systems. My journey started in Chemistry, but I found my true calling in the logic of code.
 
-- 🔭 Computer Science Student
-- 💻 Full Stack Developer
+💻 Tech Stack: Proficient in Java and PHP, with a solid grasp of Git for version control.
+
+🛠️ Experience: From winning Hackathons (42Rio) to developing professional web solutions.
+
+🌱 Learning: Constantly evolving my software architecture skills and exploring new technologies.
+
+🎯 Goal: Bridging the gap between complex problems and elegant digital solutions.
 
 ### Tech Stack
 
