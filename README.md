@@ -3,7 +3,7 @@ A Computer Science student and Full Stack Developer passionate about building ro
 
 💻 Tech Stack: Proficient in Java and PHP, with a solid grasp of Git for version control.
 
-🛠️ Experience: From winning Hackathons (42Rio) to developing professional web solutions.
+🛠️ Experience: From winning Hackathons (42Rio) to developing professional solutions.
 
 🌱 Learning: Constantly evolving my software architecture skills and exploring new technologies.
 
