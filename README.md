@@ -1,4 +1,4 @@
-## Hi there, I'm Luiz Miguel 👋
+## Hi, I'm Luiz Miguel 👋
 A Computer Science student and Full Stack Developer passionate about building robust and efficient systems.
 
 💻 Tech Stack: Proficient in PHP, with a solid grasp of Git for version control.
