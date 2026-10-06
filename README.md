@@ -33,12 +33,12 @@ I enjoy turning complex requirements into clear digital solutions — from the f
 
 </div>
 
-## Commit activity
+## GitHub statistics
 
 <div align="center">
 
 <a href="https://github.com/LuizMiguel-k1ngm">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizMiguel-k1ngm&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true" alt="Commit activity graph for Luiz Miguel" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizMiguel-k1ngm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=0969da" alt="GitHub statistics for Luiz Miguel" width="100%">
 </a>
 
 </div>
