@@ -33,12 +33,12 @@ I enjoy turning complex requirements into clear digital solutions — from the f
 
 </div>
 
-## GitHub statistics
+## Most used languages
 
 <div align="center">
 
 <a href="https://github.com/LuizMiguel-k1ngm">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizMiguel-k1ngm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=0969da" alt="GitHub statistics for Luiz Miguel" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguel-k1ngm&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&card_width=700" alt="Most used programming languages for Luiz Miguel" width="100%">
 </a>
 
 </div>
